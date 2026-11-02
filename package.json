@@ -1,0 +1,10 @@
+{
+  "name": "wendao-ai-material-market",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-market.mjs",
+    "sync-metadata": "node scripts/sync-metadata.mjs",
+    "sync-index": "node scripts/sync-index.mjs"
+  }
+}

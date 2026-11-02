@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "marketId": "wendao-ai-material-market",
+  "marketVersion": "1.0.0",
+  "generatedAt": "2026-11-02T13:01:45+08:00",
+  "sourceRevision": "split-from-3b3b7a5",
+  "license": "Mixed; see each resource and NOTICE.md",
+  "catalogs": [
+    {
+      "type": "papers",
+      "version": "2.0.0",
+      "path": "catalogs/papers.json",
+      "sha256": "17d55ff3264a61e0a50456aae361a85e3f7da26554f859d347e3430d53a7d5c4",
+      "count": 4
+    },
+    {
+      "type": "overlays",
+      "version": "2.0.0",
+      "path": "catalogs/overlays.json",
+      "sha256": "31214195e58d9efb471e53b2a54762d78c0b58dc54fdd4a2a82de1bd57f68dc0",
+      "count": 12
+    },
+    {
+      "type": "decorations",
+      "version": "2.0.0",
+      "path": "catalogs/decorations.json",
+      "sha256": "7dde1d86cfe365f467b36f750adef80fd518102c29c76fce7af0273d1f58f025",
+      "count": 0
+    },
+    {
+      "type": "models",
+      "version": "1.0.0",
+      "path": "catalogs/models.json",
+      "sha256": "da0b52378bb891ebf2c4785f72b8d48f5f281d6fe3711d6efe9a913703a17ce7",
+      "count": 1
+    },
+    {
+      "type": "scenes",
+      "version": "1.0.1",
+      "path": "catalogs/scenes.json",
+      "sha256": "54ca29ac7c01297258a54782d187fcb9346b4b3eac633ec2bc59ee7224b19690",
+      "count": 1
+    },
+    {
+      "type": "cover-templates",
+      "version": "1.0.0",
+      "path": "catalogs/cover-templates.json",
+      "sha256": "22bb9e62dd004b9547523974754a4518b7f6b0cc3184f4b510355825a857ddb3",
+      "count": 0
+    },
+    {
+      "type": "inner-templates",
+      "version": "1.0.0",
+      "path": "catalogs/inner-templates.json",
+      "sha256": "ab7c621b655056b0676ee046de1e51fe589685c199ab16df064fead608d874c8",
+      "count": 0
+    }
+  ],
+  "taxonomyPath": "taxonomy/zh-CN.json",
+  "assetBasePath": "assets/",
+  "previewBasePath": "previews/"
+}
